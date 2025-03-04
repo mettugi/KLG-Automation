@@ -1,0 +1,32 @@
+Menu Toggle
+locator by xpath //a[@id='menu-toggle']
+
+Login Menu
+locator by xpath (//a[@onclick="$('#menu-close').click();"])[3]
+
+Input Username
+locator by xpath //input[@id='txt-username']
+
+Input Password
+locator by xpath //input[@id='txt-password']
+
+Logout Button
+locator by xpath (//a[@onclick="$('#menu-close').click();"])[5]
+
+Select Facility
+locator by xpath //select[@id='combo_facility']
+
+Tickmark apply to hospital readmission
+locator by xpath //input[@id='chk_hospotal_readmission']
+
+Select healthcare program
+locator by xpath //input[@id='radio_program_medicaid'] //input[@id='radio_program_medicare'] //input[@id='radio_program_none']
+
+Visit Date
+locator by xpath //input[@id='txt_visit_date']
+
+comment
+locator by xpath //textarea[@id='txt_comment']
+
+button book appointment 
+locator by xpath //button[@id='btn-book-appointment']
