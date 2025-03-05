@@ -1,4 +1,4 @@
-# KLG-Auatomation
+# KLG-Automation
 Automation Test Script using Katalon Studio
 
 1. Open Katalon Studio
