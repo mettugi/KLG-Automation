@@ -5,3 +5,5 @@ Automation Test Script using Katalon Studio
 2. Open Project/Create New Project
 3. Open Files or create new files
 4. Copy and paste script
+
+Open test Object
