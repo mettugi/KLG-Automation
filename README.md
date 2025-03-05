@@ -1,9 +1,7 @@
-# KLG-API
-API Testing Postman
+# KLG-Auatomation
+Automation Test Script using Katalon Studio
 
-Open Postman App or via Browser
-Import collection by Click Import
-Click Files
-Select File
-Click Open
-Run each API
+1. Open Katalon Studio
+2. Open Project/Create New Project
+3. Open Files or create new files
+4. Copy and paste script
